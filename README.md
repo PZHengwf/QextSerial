@@ -1,0 +1,4 @@
+QextSerial
+==========
+
+Qt Serial Port
